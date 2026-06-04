@@ -1,0 +1,16 @@
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\bin\Debug\net8.0-windows\LabMM.exe
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\bin\Debug\net8.0-windows\LabMM.deps.json
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\bin\Debug\net8.0-windows\LabMM.runtimeconfig.json
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\bin\Debug\net8.0-windows\LabMM.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\bin\Debug\net8.0-windows\LabMM.pdb
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.Form1.resources
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.csproj.GenerateResource.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.AssemblyInfoInputs.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.AssemblyInfo.cs
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\refint\LabMM.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.pdb
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\LabMM.genruntimeconfig.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabMM\LabMM\obj\Debug\net8.0-windows\ref\LabMM.dll
